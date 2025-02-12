@@ -1,0 +1,27 @@
+@media(max-width: 1060px) {
+    .funcao {
+        font-size: 15px;
+        text-align:center;
+        
+    }
+
+    header {
+        padding-right: 10px;
+        padding-left: 10px;
+
+    }
+
+    .botao {
+        display: flex;
+    }
+
+    .titulo {
+        font-size: 30px;
+        text-align: center;
+        line-height: 30px;   
+    }
+
+    .imagemProjetos {
+        width: 100%;
+    }
+}

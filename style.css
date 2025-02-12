@@ -1,5 +1,6 @@
 * {
-    margin: 0;
+    margin: 0px;
+    margin-bottom: 5px;
     padding: 0px;
     box-sizing: border-box
 }
@@ -124,14 +125,6 @@ button:hover {
     flex-direction: column;
     gap: 30px;
     padding: 5px;
-}
-
-.amarelo {
-    color: yellow;
-}
-
-.vermelho {
-    color: red;
 }
 
 .informacoes {
